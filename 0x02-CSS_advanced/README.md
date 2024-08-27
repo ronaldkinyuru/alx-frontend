@@ -133,7 +133,3 @@ Read or watch:
 ### [32. Incorporating transitions](./styles/32-style.css)
 * Create some custom properties for transitions
 
----
-
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
